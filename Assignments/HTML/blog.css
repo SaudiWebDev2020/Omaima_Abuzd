@@ -1,0 +1,52 @@
+
+.header {
+    font-family: Arial;
+    font-size: 32px;
+    color: lightblue;
+    text-align: center;
+    background-color: whitesmoke;
+}
+body {
+    background-color: papayawhip;
+}
+.content {
+    font-family: Georgia;
+    color: brown;
+    border: 5px dotted lightskyblue ;
+    font-weight: lighter;
+}
+h3 {
+    font-family: monospace;
+    text-align: left;
+    color: darkorange;
+    font-size: 25px;
+}
+#header1 {
+    font-family: monospace;
+    text-align: center;
+    color: darkorange;
+    font-size: 30px;
+
+}
+h4 {
+    font-family: monospace;
+    font-size: 20px;
+    color: darksalmon;
+}
+img{
+    border-radius: 8px;
+    margin-left: 500px;
+  margin-right: 50px;
+}
+p{
+    font-family: Georgia;
+    color: brown;  
+}
+ol{
+    
+    font-family: Georgia;
+    color: brown;
+}
+.contentI {
+    border: 5px dotted lightskyblue ;
+}
