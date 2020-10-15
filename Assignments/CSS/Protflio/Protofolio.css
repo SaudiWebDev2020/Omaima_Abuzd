@@ -1,0 +1,135 @@
+
+header {
+    background-color:rgba(233, 230, 230, 0.986);
+    margin:0px 100px;
+    padding:10px;
+    height: 50px;
+    margin-bottom: 15px;
+}
+.name{
+font-family:monospace;
+color: black;
+margin:0px;
+padding:0px;
+display: inline;
+}
+
+.wrapper{
+    background-image:linear-gradient(to bottom right,rgb(97,75,81),rgb(81,59,65), rgb(37,18,21));
+    padding:10px;
+    margin:100px;
+    margin-top: -15px;
+
+}
+
+.photo{
+    width: 400px;
+    height: 270px;
+    margin-left: 10px;
+    border: 5px solid lightgray;
+    display: inline-block;
+}
+
+.about{
+    display: inline-block;
+    width:450px;
+    height: 260px;
+    background-image:linear-gradient(to bottom right, white,rgb(225,212,223));
+    vertical-align: top;
+    margin-left: 140px;
+    text-indent:2px ;
+    border:2px solid lightgray;
+    
+
+}
+h2{
+    background-image: linear-gradient( lightgrey, grey, lightgrey);
+    color: white;
+    padding:11px;
+    margin: 0px;
+    font-family: arial;
+    font-size: medium;
+    
+    }
+
+h4{
+    background-image: linear-gradient( lightgrey, grey, lightgrey);
+    color:white;
+    margin:-5px;
+    padding:10px;
+    font-family: arial;
+
+}
+h3{
+    color:black;
+    background-image: none;
+    font-family: arial;
+    display: inline;
+    float: right;
+}
+
+.boxes img{
+    max-width: 100%;
+    max-height: 100%;
+    margin-top: 7px;
+}
+.boxes p{
+    height: 200px;
+}
+.techlogo img{
+    width:40px;
+    height: 40px;
+    margin:3px;
+}
+.techlogo{
+    width: 250px;
+    height: 120px;
+    margin: 0px;
+    padding: 0px;
+    background-image:linear-gradient(to bottom right, white,rgb(225,212,223));
+
+
+}
+.boxes{
+    width: 300px;
+    padding: 5px;
+    background-image:linear-gradient(to bottom right, white,rgb(225,212,223));
+    display:inline-block;
+    vertical-align: top;
+    margin:10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin:0px;
+    font-family: sans-serif;
+    font-weight: 100;
+}
+footer  p{
+    margin-bottom: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
+footer p a {
+    color: #000;
+    font-style: italic;
+    margin-left: 5px;
+}
+footer p img {
+    margin-left: 10px;
+    width: 20px;
+}
+.bt{
+    width: max-content;
+    background-color: #407d61;
+    color: white ;
+    border: 1px solid #2e614a;
+    border-radius: 5px;
+    padding: 6px ;
+    box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.25);
+    display: inline-block;
+    margin-left: 70px;
